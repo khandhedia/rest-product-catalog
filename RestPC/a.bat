@@ -1,0 +1,1 @@
+copy target\RestPC.war c:\apache-tomcat-8.0.41-windows-x64\apache-tomcat-8.0.41\webapps\
